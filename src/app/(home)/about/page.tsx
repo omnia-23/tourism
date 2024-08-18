@@ -3,7 +3,7 @@ import img from "@/assets/about.webp";
 import panar from "@/assets/baner.jpg";
 import img3 from "@/assets/img3.webp";
 import img4 from "@/assets/img4.webp";
-import aboutUs from "@/assets/about-us.png";
+import aboutUs from "@/assets/about-us.webp";
 import Link from "next/link";
 import { Button } from "@/components/ui";
 import { FaArrowRight } from "react-icons/fa6";
