@@ -1,5 +1,5 @@
 import Image, { StaticImageData } from "next/image";
-import img from "@/assets/about.jpg";
+import img from "@/assets/about.webp";
 import panar from "@/assets/baner.jpg";
 import img3 from "@/assets/img3.webp";
 import img4 from "@/assets/img4.webp";
