@@ -4,7 +4,7 @@ import { getTours } from "@/lib/actions/tour.actions";
 import { SearchForm } from "./_components/searchForm";
 import { PageParams } from "@/models";
 import Image from "next/image";
-import img from "@/assets/background.jpg";
+import img from "@/assets/background.webp";
 import { cn } from "@/lib/utils";
 import { lora } from "@/lib/fonts";
 
